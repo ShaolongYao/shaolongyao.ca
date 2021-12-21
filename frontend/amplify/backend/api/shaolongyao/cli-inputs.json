@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "shaolongyao",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\shaol\\Documents\\GitHub\\shaolongyao.ca\\frontend\\amplify\\backend\\api\\shaolongyao\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authshaolongyaoAuth"
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "API_KEY",
+        "expirationTime": 7,
+        "apiKeyExpirationDate": "2021-12-28T03:57:43.467Z",
+        "keyDescription": ""
+      }
+    ]
+  }
+}

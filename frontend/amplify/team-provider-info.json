@@ -10,6 +10,11 @@
       "StackName": "amplify-shaolongyao-dev-203000",
       "StackId": "arn:aws:cloudformation:us-east-2:466104095151:stack/amplify-shaolongyao-dev-203000/84507bd0-61fd-11ec-9c5a-02e4bd427496",
       "AmplifyAppId": "d2u8b2h21flg8p"
+    },
+    "categories": {
+      "auth": {
+        "shaolongyaoAuth": {}
+      }
     }
   }
 }
